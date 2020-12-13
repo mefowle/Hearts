@@ -40,3 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+
+### New Game
