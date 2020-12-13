@@ -42,4 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 | Content Cell  | Content Cell  |
 
 
-### New Game
+[### New Game](https://github.com/mefowle/Hearts/NewGame.md)
